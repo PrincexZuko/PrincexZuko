@@ -34,3 +34,22 @@
 ## 🌐 Connect With Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kayGx24@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaygillx24)
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/PrincexZuko/PrincexZuko/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=85&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=46&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PrincexZuko.PrincexZuko&"  />
+</div>
+
+###
